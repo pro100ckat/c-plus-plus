@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(16): error C2011: Students: переопределение типа "class"
+  c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(8): note:  см. объявление "Students"
+c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(32): error C2027: использование неопределенного типа "Students"
+  c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(8): note:  см. объявление "Students"
+c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(32): error C2227: выражение слева от "->{ctor}" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(35): warning C4150: удаление указателя на неполный тип "Students"; деструктор не вызван
+  c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(8): note:  см. объявление "Students"

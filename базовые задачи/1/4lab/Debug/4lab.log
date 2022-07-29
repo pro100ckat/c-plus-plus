@@ -1,0 +1,6 @@
+﻿  4lab.cpp
+c:\users\user\documents\visual studio 2015\projects\4lab\4lab\heir.h(11): error C2590: =: список инициализации базовых классов и членов может быть только в конструкторе
+c:\users\user\documents\visual studio 2015\projects\4lab\4lab\heir.h(11): error C2533: heir::heir: конструкторы не разрешены для возвращаемого типа
+c:\users\user\documents\visual studio 2015\projects\4lab\4lab\heir.h(12): error C2590: +: список инициализации базовых классов и членов может быть только в конструкторе
+c:\users\user\documents\visual studio 2015\projects\4lab\4lab\heir.h(12): error C2633: heir: "inline" является единственным допустимым классом хранения для конструкторов
+c:\users\user\documents\visual studio 2015\projects\4lab\4lab\heir.h(12): fatal error C1903: не удается восстановить после предыдущих ошибок; остановка компиляции

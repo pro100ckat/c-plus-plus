@@ -1,0 +1,4 @@
+﻿  ConsoleApplication11.cpp
+c:\users\user\documents\visual studio 2015\projects\consoleapplication11\consoleapplication11\consoleapplication11.cpp(217): warning C4838: преобразование из "double" в "float" требует сужающего преобразования
+c:\users\user\documents\visual studio 2015\projects\consoleapplication11\consoleapplication11\consoleapplication11.cpp(217): warning C4305: инициализация: усечение из "double" к "float"
+  ConsoleApplication11.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\ConsoleApplication11\Debug\ConsoleApplication11.exe
